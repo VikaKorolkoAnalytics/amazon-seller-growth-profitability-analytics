@@ -124,8 +124,6 @@ The following screenshots illustrate the Power Query implementation and transfor
 
 ![Amazon Sales Query](./3_power%20_query/applied_steps/1_amazon_sales_etl_workflow.png)
 
-![Amazon Sales Query](./3_power%20_query/applied_steps/2_amazon_sales_etl_workflow_1.png)
-
 ![Amazon Ads Query](./3_power%20_query/applied_steps/3_amazon_ads_etl_workflow.png)
 
 ![Amazon Ads Query](./3_power%20_query/applied_steps/4_amazon_ads_etl_workflow_1.png)
